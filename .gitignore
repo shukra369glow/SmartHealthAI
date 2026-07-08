@@ -161,4 +161,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+<<<<<<< HEAD
+>>>>>>> f0b92d7b4969c2799ee6d88dbb1a149e2ca3659c
+=======
 >>>>>>> f0b92d7b4969c2799ee6d88dbb1a149e2ca3659c
